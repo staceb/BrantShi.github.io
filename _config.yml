@@ -3,24 +3,24 @@ title: BrantShi
 subtitle: 个人网站
 description: 欢迎来到我的个人网站~
 # 头像里面的标题
-avatarTitle: 呼伟
+avatarTitle: 石纪
 # 头像里面的描述
 avatarDesc: 小白/入门
-url: "https://wade410.github.io/"
+url: "https://BrantShi.github.io/"
 
 # Comment
 comment:
-    disqus: wade410
+    disqus: BrantShi
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
     weibo: 123456789 
-    github: wade410
+    github: BrantShi
     # zhihu: panpanleopard
     # twitter: 
-    mail: huwei201901@163.com
+    mail: 502688799@qq.com
 
 
 # 百度统计 
